@@ -1,201 +1,201 @@
 id,text_snippet,labels
-1,Is your solution SOC2 certified? Our team is concerned about compliance.,Security
-2,Is your solution encryption? Our team is concerned about compliance.,Security
-3,"We like your product, but CompetitorX offers better AI engine.",Competition
-4,Is your solution encryption? Our team is concerned about compliance.,Security
-5,Is your solution encryption? Our team is concerned about compliance.,Security
-6,"We like your product, but CompetitorX offers better data pipeline.",Competition
-7,"We like your product, but CompetitorX offers better analytics.",Competition
-8,"The AI engine looks great, but the discount is too high.",Pricing Discussion
-9,I’m not sure if analytics solves our use case. We’re still evaluating.,Objection
-10,I’m not sure if AI engine solves our use case. We’re still evaluating.,Objection
-11,Is your solution SOC2 certified? Our team is concerned about compliance.,Security
-12,"We like your product, but CompetitorY offers better data pipeline.",Competition
-13,"We like your product, but CompetitorY offers better data pipeline.",Competition
-14,Is your solution encryption? Our team is concerned about compliance.,Security
-15,Is your solution encryption? Our team is concerned about compliance.,Security
-16,Is your solution SOC2 certified? Our team is concerned about compliance.,Security
-17,I’m not sure if AI engine solves our use case. We’re still evaluating.,Objection
-18,"We like your product, but CompetitorZ offers better data pipeline.",Competition
-19,"The analytics looks great, but the discount is too high.",Pricing Discussion
-20,"We like your product, but CompetitorY offers better analytics.",Competition
-21,I’m not sure if analytics solves our use case. We’re still evaluating.,Objection
-22,"The data pipeline looks great, but the discount is too high.",Pricing Discussion
-23,"We like your product, but CompetitorX offers better AI engine.",Competition
-24,"The analytics looks great, but the pricing model is too high.",Pricing Discussion
-25,I’m not sure if analytics solves our use case. We’re still evaluating.,Objection
-26,"We like your product, but CompetitorY offers better analytics.",Competition
-27,"The analytics looks great, but the discount is too high.",Pricing Discussion
-28,I’m not sure if AI engine solves our use case. We’re still evaluating.,Objection
-29,Is your solution SOC2 certified? Our team is concerned about compliance.,Security
+1,Is your solution encryption? Our team is concerned about compliance.,Security
+2,"The AI engine looks great, but the pricing model is too high.",Pricing Discussion
+3,I’m not sure if data pipeline solves our use case. We’re still evaluating.,Objection
+4,"We like your product, but CompetitorX offers better data pipeline.",Competition
+5,I’m not sure if AI engine solves our use case. We’re still evaluating.,Objection
+6,"We like your product, but CompetitorZ offers better analytics.",Competition
+7,"We like your product, but CompetitorX offers better AI engine.",Competition
+8,Is your solution SOC2 certified? Our team is concerned about compliance.,Security
+9,"We like your product, but CompetitorY offers better data pipeline.",Competition
+10,"We like your product, but CompetitorX offers better data pipeline.",Competition
+11,"The data pipeline looks great, but the pricing model is too high.",Pricing Discussion
+12,"The data pipeline looks great, but the discount is too high.",Pricing Discussion
+13,Is your solution SOC2 certified? Our team is concerned about compliance.,Security
+14,Is your solution SOC2 certified? Our team is concerned about compliance.,Security
+15,Is your solution SOC2 certified? Our team is concerned about compliance.,Security
+16,I’m not sure if AI engine solves our use case. We’re still evaluating.,Objection
+17,"The analytics looks great, but the budget is too high.",Pricing Discussion
+18,"We like your product, but CompetitorZ offers better AI engine.",Competition
+19,Is your solution SOC2 certified? Our team is concerned about compliance.,Security
+20,"We like your product, but CompetitorX offers better AI engine.",Competition
+21,Is your solution encryption? Our team is concerned about compliance.,Security
+22,I’m not sure if data pipeline solves our use case. We’re still evaluating.,Objection
+23,Is your solution encryption? Our team is concerned about compliance.,Security
+24,"We like your product, but CompetitorX offers better data pipeline.",Competition
+25,Is your solution encryption? Our team is concerned about compliance.,Security
+26,"We like your product, but CompetitorY offers better AI engine.",Competition
+27,I’m not sure if data pipeline solves our use case. We’re still evaluating.,Objection
+28,Is your solution encryption? Our team is concerned about compliance.,Security
+29,"We like your product, but CompetitorX offers better data pipeline.",Competition
 30,I’m not sure if analytics solves our use case. We’re still evaluating.,Objection
-31,I’m not sure if analytics solves our use case. We’re still evaluating.,Objection
-32,I’m not sure if analytics solves our use case. We’re still evaluating.,Objection
-33,"We like your product, but CompetitorY offers better analytics.",Competition
-34,I’m not sure if AI engine solves our use case. We’re still evaluating.,Objection
-35,"We like your product, but CompetitorY offers better data pipeline.",Competition
-36,"We like your product, but CompetitorX offers better AI engine.",Competition
-37,"The analytics looks great, but the pricing model is too high.",Pricing Discussion
-38,"The analytics looks great, but the pricing model is too high.",Pricing Discussion
-39,"The analytics looks great, but the discount is too high.",Pricing Discussion
-40,"We like your product, but CompetitorX offers better data pipeline.",Competition
-41,I’m not sure if data pipeline solves our use case. We’re still evaluating.,Objection
-42,I’m not sure if analytics solves our use case. We’re still evaluating.,Objection
+31,"The AI engine looks great, but the budget is too high.",Pricing Discussion
+32,"We like your product, but CompetitorX offers better AI engine.",Competition
+33,I’m not sure if analytics solves our use case. We’re still evaluating.,Objection
+34,"The AI engine looks great, but the discount is too high.",Pricing Discussion
+35,Is your solution encryption? Our team is concerned about compliance.,Security
+36,Is your solution SOC2 certified? Our team is concerned about compliance.,Security
+37,"The data pipeline looks great, but the discount is too high.",Pricing Discussion
+38,I’m not sure if data pipeline solves our use case. We’re still evaluating.,Objection
+39,"We like your product, but CompetitorX offers better analytics.",Competition
+40,Is your solution SOC2 certified? Our team is concerned about compliance.,Security
+41,I’m not sure if analytics solves our use case. We’re still evaluating.,Objection
+42,I’m not sure if data pipeline solves our use case. We’re still evaluating.,Objection
 43,Is your solution SOC2 certified? Our team is concerned about compliance.,Security
-44,"We like your product, but CompetitorX offers better analytics.",Competition
-45,"The AI engine looks great, but the pricing model is too high.",Pricing Discussion
+44,"The data pipeline looks great, but the discount is too high.",Pricing Discussion
+45,"We like your product, but CompetitorZ offers better data pipeline.",Competition
 46,I’m not sure if data pipeline solves our use case. We’re still evaluating.,Objection
-47,"We like your product, but CompetitorX offers better analytics.",Competition
-48,"The analytics looks great, but the budget is too high.",Pricing Discussion
-49,"The analytics looks great, but the pricing model is too high.",Pricing Discussion
-50,"We like your product, but CompetitorZ offers better data pipeline.",Competition
-51,Is your solution SOC2 certified? Our team is concerned about compliance.,Security
-52,"We like your product, but CompetitorZ offers better analytics.",Competition
-53,"We like your product, but CompetitorZ offers better analytics.",Competition
-54,"We like your product, but CompetitorZ offers better analytics.",Competition
-55,"We like your product, but CompetitorX offers better AI engine.",Competition
-56,I’m not sure if analytics solves our use case. We’re still evaluating.,Objection
+47,Is your solution SOC2 certified? Our team is concerned about compliance.,Security
+48,"We like your product, but CompetitorY offers better analytics.",Competition
+49,"The AI engine looks great, but the discount is too high.",Pricing Discussion
+50,I’m not sure if data pipeline solves our use case. We’re still evaluating.,Objection
+51,"The AI engine looks great, but the discount is too high.",Pricing Discussion
+52,"We like your product, but CompetitorX offers better AI engine.",Competition
+53,Is your solution SOC2 certified? Our team is concerned about compliance.,Security
+54,I’m not sure if data pipeline solves our use case. We’re still evaluating.,Objection
+55,"The analytics looks great, but the discount is too high.",Pricing Discussion
+56,Is your solution SOC2 certified? Our team is concerned about compliance.,Security
 57,Is your solution encryption? Our team is concerned about compliance.,Security
 58,"We like your product, but CompetitorZ offers better analytics.",Competition
-59,I’m not sure if analytics solves our use case. We’re still evaluating.,Objection
-60,"The data pipeline looks great, but the pricing model is too high.",Pricing Discussion
+59,I’m not sure if AI engine solves our use case. We’re still evaluating.,Objection
+60,"The AI engine looks great, but the budget is too high.",Pricing Discussion
 61,Is your solution SOC2 certified? Our team is concerned about compliance.,Security
-62,"The data pipeline looks great, but the discount is too high.",Pricing Discussion
-63,I’m not sure if analytics solves our use case. We’re still evaluating.,Objection
-64,I’m not sure if AI engine solves our use case. We’re still evaluating.,Objection
-65,I’m not sure if analytics solves our use case. We’re still evaluating.,Objection
-66,I’m not sure if data pipeline solves our use case. We’re still evaluating.,Objection
-67,I’m not sure if data pipeline solves our use case. We’re still evaluating.,Objection
-68,I’m not sure if data pipeline solves our use case. We’re still evaluating.,Objection
-69,Is your solution encryption? Our team is concerned about compliance.,Security
-70,"The analytics looks great, but the pricing model is too high.",Pricing Discussion
-71,"We like your product, but CompetitorZ offers better data pipeline.",Competition
-72,Is your solution encryption? Our team is concerned about compliance.,Security
-73,"The data pipeline looks great, but the pricing model is too high.",Pricing Discussion
-74,I’m not sure if data pipeline solves our use case. We’re still evaluating.,Objection
-75,"We like your product, but CompetitorZ offers better analytics.",Competition
-76,I’m not sure if analytics solves our use case. We’re still evaluating.,Objection
-77,"We like your product, but CompetitorZ offers better data pipeline.",Competition
-78,"The analytics looks great, but the pricing model is too high.",Pricing Discussion
-79,"The data pipeline looks great, but the pricing model is too high.",Pricing Discussion
+62,I’m not sure if data pipeline solves our use case. We’re still evaluating.,Objection
+63,Is your solution SOC2 certified? Our team is concerned about compliance.,Security
+64,"The data pipeline looks great, but the budget is too high.",Pricing Discussion
+65,"The analytics looks great, but the budget is too high.",Pricing Discussion
+66,"The AI engine looks great, but the pricing model is too high.",Pricing Discussion
+67,"We like your product, but CompetitorY offers better AI engine.",Competition
+68,"We like your product, but CompetitorY offers better data pipeline.",Competition
+69,"The AI engine looks great, but the discount is too high.",Pricing Discussion
+70,I’m not sure if analytics solves our use case. We’re still evaluating.,Objection
+71,"We like your product, but CompetitorX offers better data pipeline.",Competition
+72,I’m not sure if AI engine solves our use case. We’re still evaluating.,Objection
+73,"The data pipeline looks great, but the budget is too high.",Pricing Discussion
+74,"The AI engine looks great, but the budget is too high.",Pricing Discussion
+75,Is your solution SOC2 certified? Our team is concerned about compliance.,Security
+76,Is your solution SOC2 certified? Our team is concerned about compliance.,Security
+77,Is your solution SOC2 certified? Our team is concerned about compliance.,Security
+78,I’m not sure if analytics solves our use case. We’re still evaluating.,Objection
+79,"We like your product, but CompetitorX offers better analytics.",Competition
 80,Is your solution SOC2 certified? Our team is concerned about compliance.,Security
-81,"We like your product, but CompetitorX offers better data pipeline.",Competition
-82,I’m not sure if analytics solves our use case. We’re still evaluating.,Objection
-83,"The data pipeline looks great, but the discount is too high.",Pricing Discussion
-84,I’m not sure if data pipeline solves our use case. We’re still evaluating.,Objection
-85,I’m not sure if data pipeline solves our use case. We’re still evaluating.,Objection
-86,"We like your product, but CompetitorZ offers better data pipeline.",Competition
-87,Is your solution encryption? Our team is concerned about compliance.,Security
-88,I’m not sure if analytics solves our use case. We’re still evaluating.,Objection
-89,Is your solution SOC2 certified? Our team is concerned about compliance.,Security
-90,I’m not sure if analytics solves our use case. We’re still evaluating.,Objection
-91,Is your solution encryption? Our team is concerned about compliance.,Security
-92,"We like your product, but CompetitorX offers better AI engine.",Competition
-93,I’m not sure if AI engine solves our use case. We’re still evaluating.,Objection
-94,"The analytics looks great, but the discount is too high.",Pricing Discussion
-95,I’m not sure if data pipeline solves our use case. We’re still evaluating.,Objection
-96,I’m not sure if analytics solves our use case. We’re still evaluating.,Objection
-97,"We like your product, but CompetitorX offers better AI engine.",Competition
+81,Is your solution SOC2 certified? Our team is concerned about compliance.,Security
+82,"We like your product, but CompetitorY offers better data pipeline.",Competition
+83,Is your solution SOC2 certified? Our team is concerned about compliance.,Security
+84,I’m not sure if analytics solves our use case. We’re still evaluating.,Objection
+85,Is your solution encryption? Our team is concerned about compliance.,Security
+86,Is your solution SOC2 certified? Our team is concerned about compliance.,Security
+87,"The analytics looks great, but the pricing model is too high.",Pricing Discussion
+88,"The AI engine looks great, but the pricing model is too high.",Pricing Discussion
+89,I’m not sure if AI engine solves our use case. We’re still evaluating.,Objection
+90,Is your solution encryption? Our team is concerned about compliance.,Security
+91,"We like your product, but CompetitorZ offers better analytics.",Competition
+92,"We like your product, but CompetitorX offers better data pipeline.",Competition
+93,"The AI engine looks great, but the budget is too high.",Pricing Discussion
+94,Is your solution SOC2 certified? Our team is concerned about compliance.,Security
+95,"We like your product, but CompetitorZ offers better AI engine.",Competition
+96,"We like your product, but CompetitorY offers better analytics.",Competition
+97,"We like your product, but CompetitorZ offers better data pipeline.",Competition
 98,I’m not sure if AI engine solves our use case. We’re still evaluating.,Objection
-99,I’m not sure if AI engine solves our use case. We’re still evaluating.,Objection
-100,"We like your product, but CompetitorY offers better data pipeline.",Competition
-101,I’m not sure if analytics solves our use case. We’re still evaluating.,Objection
-102,Is your solution encryption? Our team is concerned about compliance.,Security
-103,"The analytics looks great, but the budget is too high.",Pricing Discussion
-104,Is your solution encryption? Our team is concerned about compliance.,Security
-105,"The AI engine looks great, but the discount is too high.",Pricing Discussion
-106,"We like your product, but CompetitorZ offers better AI engine.",Competition
-107,"The AI engine looks great, but the pricing model is too high.",Pricing Discussion
-108,"We like your product, but CompetitorY offers better data pipeline.",Competition
-109,"We like your product, but CompetitorZ offers better data pipeline.",Competition
-110,"We like your product, but CompetitorZ offers better analytics.",Competition
-111,"The analytics looks great, but the discount is too high.",Pricing Discussion
-112,"The data pipeline looks great, but the pricing model is too high.",Pricing Discussion
+99,Is your solution SOC2 certified? Our team is concerned about compliance.,Security
+100,"The analytics looks great, but the discount is too high.",Pricing Discussion
+101,"The AI engine looks great, but the discount is too high.",Pricing Discussion
+102,"We like your product, but CompetitorZ offers better analytics.",Competition
+103,I’m not sure if data pipeline solves our use case. We’re still evaluating.,Objection
+104,"We like your product, but CompetitorX offers better analytics.",Competition
+105,"The analytics looks great, but the budget is too high.",Pricing Discussion
+106,"We like your product, but CompetitorZ offers better analytics.",Competition
+107,"The data pipeline looks great, but the pricing model is too high.",Pricing Discussion
+108,"The analytics looks great, but the pricing model is too high.",Pricing Discussion
+109,"We like your product, but CompetitorX offers better data pipeline.",Competition
+110,I’m not sure if AI engine solves our use case. We’re still evaluating.,Objection
+111,"We like your product, but CompetitorY offers better data pipeline.",Competition
+112,Is your solution encryption? Our team is concerned about compliance.,Security
 113,Is your solution encryption? Our team is concerned about compliance.,Security
-114,I’m not sure if analytics solves our use case. We’re still evaluating.,Objection
-115,I’m not sure if data pipeline solves our use case. We’re still evaluating.,Objection
+114,"We like your product, but CompetitorX offers better analytics.",Competition
+115,"We like your product, but CompetitorX offers better analytics.",Competition
 116,"The analytics looks great, but the pricing model is too high.",Pricing Discussion
-117,Is your solution encryption? Our team is concerned about compliance.,Security
-118,I’m not sure if AI engine solves our use case. We’re still evaluating.,Objection
-119,"We like your product, but CompetitorX offers better analytics.",Competition
-120,"We like your product, but CompetitorZ offers better AI engine.",Competition
-121,"The data pipeline looks great, but the discount is too high.",Pricing Discussion
-122,Is your solution encryption? Our team is concerned about compliance.,Security
-123,"The AI engine looks great, but the discount is too high.",Pricing Discussion
-124,"The analytics looks great, but the pricing model is too high.",Pricing Discussion
-125,"We like your product, but CompetitorX offers better AI engine.",Competition
-126,"We like your product, but CompetitorX offers better analytics.",Competition
-127,"The data pipeline looks great, but the pricing model is too high.",Pricing Discussion
-128,Is your solution encryption? Our team is concerned about compliance.,Security
-129,"The AI engine looks great, but the discount is too high.",Pricing Discussion
-130,Is your solution encryption? Our team is concerned about compliance.,Security
-131,I’m not sure if AI engine solves our use case. We’re still evaluating.,Objection
-132,"The AI engine looks great, but the budget is too high.",Pricing Discussion
-133,I’m not sure if data pipeline solves our use case. We’re still evaluating.,Objection
-134,"We like your product, but CompetitorX offers better analytics.",Competition
-135,"We like your product, but CompetitorX offers better AI engine.",Competition
-136,"The data pipeline looks great, but the discount is too high.",Pricing Discussion
-137,"We like your product, but CompetitorY offers better data pipeline.",Competition
-138,I’m not sure if analytics solves our use case. We’re still evaluating.,Objection
-139,"We like your product, but CompetitorY offers better data pipeline.",Competition
-140,"We like your product, but CompetitorZ offers better AI engine.",Competition
-141,I’m not sure if data pipeline solves our use case. We’re still evaluating.,Objection
-142,"The analytics looks great, but the budget is too high.",Pricing Discussion
-143,"We like your product, but CompetitorY offers better AI engine.",Competition
-144,"We like your product, but CompetitorZ offers better analytics.",Competition
-145,Is your solution SOC2 certified? Our team is concerned about compliance.,Security
-146,"We like your product, but CompetitorY offers better analytics.",Competition
-147,Is your solution SOC2 certified? Our team is concerned about compliance.,Security
-148,Is your solution encryption? Our team is concerned about compliance.,Security
-149,"The data pipeline looks great, but the discount is too high.",Pricing Discussion
-150,Is your solution encryption? Our team is concerned about compliance.,Security
-151,"We like your product, but CompetitorX offers better AI engine.",Competition
-152,"The data pipeline looks great, but the pricing model is too high.",Pricing Discussion
-153,"The analytics looks great, but the discount is too high.",Pricing Discussion
-154,"We like your product, but CompetitorX offers better data pipeline.",Competition
-155,I’m not sure if data pipeline solves our use case. We’re still evaluating.,Objection
-156,Is your solution SOC2 certified? Our team is concerned about compliance.,Security
-157,Is your solution SOC2 certified? Our team is concerned about compliance.,Security
-158,"We like your product, but CompetitorY offers better data pipeline.",Competition
-159,"We like your product, but CompetitorY offers better analytics.",Competition
-160,Is your solution SOC2 certified? Our team is concerned about compliance.,Security
-161,I’m not sure if data pipeline solves our use case. We’re still evaluating.,Objection
-162,"We like your product, but CompetitorZ offers better analytics.",Competition
-163,Is your solution SOC2 certified? Our team is concerned about compliance.,Security
-164,I’m not sure if AI engine solves our use case. We’re still evaluating.,Objection
-165,"We like your product, but CompetitorX offers better data pipeline.",Competition
-166,I’m not sure if data pipeline solves our use case. We’re still evaluating.,Objection
+117,"The AI engine looks great, but the budget is too high.",Pricing Discussion
+118,"We like your product, but CompetitorZ offers better analytics.",Competition
+119,I’m not sure if data pipeline solves our use case. We’re still evaluating.,Objection
+120,"The AI engine looks great, but the discount is too high.",Pricing Discussion
+121,"The data pipeline looks great, but the budget is too high.",Pricing Discussion
+122,"We like your product, but CompetitorX offers better data pipeline.",Competition
+123,Is your solution encryption? Our team is concerned about compliance.,Security
+124,Is your solution encryption? Our team is concerned about compliance.,Security
+125,Is your solution encryption? Our team is concerned about compliance.,Security
+126,I’m not sure if AI engine solves our use case. We’re still evaluating.,Objection
+127,"The data pipeline looks great, but the discount is too high.",Pricing Discussion
+128,I’m not sure if data pipeline solves our use case. We’re still evaluating.,Objection
+129,"We like your product, but CompetitorY offers better data pipeline.",Competition
+130,"We like your product, but CompetitorX offers better analytics.",Competition
+131,Is your solution SOC2 certified? Our team is concerned about compliance.,Security
+132,"The AI engine looks great, but the pricing model is too high.",Pricing Discussion
+133,"We like your product, but CompetitorY offers better data pipeline.",Competition
+134,I’m not sure if analytics solves our use case. We’re still evaluating.,Objection
+135,Is your solution encryption? Our team is concerned about compliance.,Security
+136,I’m not sure if analytics solves our use case. We’re still evaluating.,Objection
+137,Is your solution SOC2 certified? Our team is concerned about compliance.,Security
+138,"We like your product, but CompetitorZ offers better data pipeline.",Competition
+139,"The AI engine looks great, but the budget is too high.",Pricing Discussion
+140,"The AI engine looks great, but the budget is too high.",Pricing Discussion
+141,Is your solution encryption? Our team is concerned about compliance.,Security
+142,"We like your product, but CompetitorX offers better data pipeline.",Competition
+143,"The analytics looks great, but the pricing model is too high.",Pricing Discussion
+144,"We like your product, but CompetitorZ offers better data pipeline.",Competition
+145,I’m not sure if analytics solves our use case. We’re still evaluating.,Objection
+146,"We like your product, but CompetitorZ offers better analytics.",Competition
+147,"We like your product, but CompetitorY offers better analytics.",Competition
+148,I’m not sure if AI engine solves our use case. We’re still evaluating.,Objection
+149,I’m not sure if AI engine solves our use case. We’re still evaluating.,Objection
+150,"We like your product, but CompetitorY offers better analytics.",Competition
+151,"We like your product, but CompetitorY offers better AI engine.",Competition
+152,"We like your product, but CompetitorX offers better analytics.",Competition
+153,"We like your product, but CompetitorX offers better data pipeline.",Competition
+154,I’m not sure if data pipeline solves our use case. We’re still evaluating.,Objection
+155,"The analytics looks great, but the discount is too high.",Pricing Discussion
+156,"We like your product, but CompetitorZ offers better AI engine.",Competition
+157,"The AI engine looks great, but the discount is too high.",Pricing Discussion
+158,I’m not sure if data pipeline solves our use case. We’re still evaluating.,Objection
+159,"We like your product, but CompetitorX offers better AI engine.",Competition
+160,"The data pipeline looks great, but the budget is too high.",Pricing Discussion
+161,"We like your product, but CompetitorY offers better data pipeline.",Competition
+162,I’m not sure if data pipeline solves our use case. We’re still evaluating.,Objection
+163,I’m not sure if data pipeline solves our use case. We’re still evaluating.,Objection
+164,I’m not sure if data pipeline solves our use case. We’re still evaluating.,Objection
+165,"The AI engine looks great, but the budget is too high.",Pricing Discussion
+166,Is your solution encryption? Our team is concerned about compliance.,Security
 167,Is your solution encryption? Our team is concerned about compliance.,Security
-168,"The AI engine looks great, but the budget is too high.",Pricing Discussion
-169,"We like your product, but CompetitorY offers better analytics.",Competition
-170,Is your solution encryption? Our team is concerned about compliance.,Security
+168,I’m not sure if analytics solves our use case. We’re still evaluating.,Objection
+169,Is your solution SOC2 certified? Our team is concerned about compliance.,Security
+170,Is your solution SOC2 certified? Our team is concerned about compliance.,Security
 171,"We like your product, but CompetitorZ offers better AI engine.",Competition
 172,Is your solution encryption? Our team is concerned about compliance.,Security
-173,I’m not sure if analytics solves our use case. We’re still evaluating.,Objection
-174,Is your solution encryption? Our team is concerned about compliance.,Security
-175,"We like your product, but CompetitorZ offers better data pipeline.",Competition
-176,"We like your product, but CompetitorZ offers better analytics.",Competition
-177,I’m not sure if AI engine solves our use case. We’re still evaluating.,Objection
-178,I’m not sure if AI engine solves our use case. We’re still evaluating.,Objection
-179,I’m not sure if AI engine solves our use case. We’re still evaluating.,Objection
-180,"The data pipeline looks great, but the budget is too high.",Pricing Discussion
-181,"The analytics looks great, but the discount is too high.",Pricing Discussion
-182,I’m not sure if AI engine solves our use case. We’re still evaluating.,Objection
-183,"We like your product, but CompetitorX offers better data pipeline.",Competition
-184,Is your solution SOC2 certified? Our team is concerned about compliance.,Security
-185,"We like your product, but CompetitorZ offers better data pipeline.",Competition
-186,Is your solution encryption? Our team is concerned about compliance.,Security
-187,Is your solution encryption? Our team is concerned about compliance.,Security
-188,Is your solution SOC2 certified? Our team is concerned about compliance.,Security
-189,"We like your product, but CompetitorX offers better analytics.",Competition
-190,Is your solution SOC2 certified? Our team is concerned about compliance.,Security
-191,"We like your product, but CompetitorX offers better analytics.",Competition
-192,"The AI engine looks great, but the pricing model is too high.",Pricing Discussion
-193,I’m not sure if analytics solves our use case. We’re still evaluating.,Objection
-194,"The data pipeline looks great, but the budget is too high.",Pricing Discussion
-195,"We like your product, but CompetitorY offers better AI engine.",Competition
-196,"The data pipeline looks great, but the discount is too high.",Pricing Discussion
-197,"The AI engine looks great, but the discount is too high.",Pricing Discussion
-198,"The AI engine looks great, but the pricing model is too high.",Pricing Discussion
-199,I’m not sure if analytics solves our use case. We’re still evaluating.,Objection
-200,Is your solution SOC2 certified? Our team is concerned about compliance.,Security
+173,Is your solution SOC2 certified? Our team is concerned about compliance.,Security
+174,Is your solution SOC2 certified? Our team is concerned about compliance.,Security
+175,"The AI engine looks great, but the budget is too high.",Pricing Discussion
+176,I’m not sure if AI engine solves our use case. We’re still evaluating.,Objection
+177,Is your solution SOC2 certified? Our team is concerned about compliance.,Security
+178,Is your solution SOC2 certified? Our team is concerned about compliance.,Security
+179,"We like your product, but CompetitorX offers better analytics.",Competition
+180,I’m not sure if analytics solves our use case. We’re still evaluating.,Objection
+181,Is your solution SOC2 certified? Our team is concerned about compliance.,Security
+182,"We like your product, but CompetitorY offers better analytics.",Competition
+183,Is your solution SOC2 certified? Our team is concerned about compliance.,Security
+184,"We like your product, but CompetitorX offers better AI engine.",Competition
+185,Is your solution SOC2 certified? Our team is concerned about compliance.,Security
+186,"We like your product, but CompetitorY offers better AI engine.",Competition
+187,"The analytics looks great, but the budget is too high.",Pricing Discussion
+188,I’m not sure if data pipeline solves our use case. We’re still evaluating.,Objection
+189,I’m not sure if data pipeline solves our use case. We’re still evaluating.,Objection
+190,"The data pipeline looks great, but the discount is too high.",Pricing Discussion
+191,I’m not sure if analytics solves our use case. We’re still evaluating.,Objection
+192,I’m not sure if analytics solves our use case. We’re still evaluating.,Objection
+193,I’m not sure if data pipeline solves our use case. We’re still evaluating.,Objection
+194,Is your solution SOC2 certified? Our team is concerned about compliance.,Security
+195,"The analytics looks great, but the pricing model is too high.",Pricing Discussion
+196,"We like your product, but CompetitorX offers better data pipeline.",Competition
+197,I’m not sure if analytics solves our use case. We’re still evaluating.,Objection
+198,Is your solution encryption? Our team is concerned about compliance.,Security
+199,"We like your product, but CompetitorX offers better AI engine.",Competition
+200,Is your solution encryption? Our team is concerned about compliance.,Security

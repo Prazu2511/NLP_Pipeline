@@ -1,1 +1,0 @@
-{'competitors': [], 'features': ['analytics'], 'pricing_keywords': ['budget'], 'security_keywords': ['SOC2 certified'], 'other_entities': []}
