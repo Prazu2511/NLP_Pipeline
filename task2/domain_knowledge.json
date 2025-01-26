@@ -1,0 +1,7 @@
+{
+    "competitors": ["CompetitorX", "CompetitorY", "CompetitorZ", "TechCorp", "MediPlus"],
+    "features": ["analytics", "AI engine", "data pipeline", "automation", "remote monitoring"],
+    "pricing_keywords": ["discount", "budget", "pricing model", "subscription cost"],
+    "security_keywords": ["SOC2 certified", "data compliance", "encryption", "privacy policy"]
+  }
+  

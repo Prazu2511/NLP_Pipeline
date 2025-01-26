@@ -1,0 +1,12 @@
+fastapi
+uvicorn
+pydantic
+numpy 
+pandas
+scikit-learn
+tensorflow
+keras
+nltk>=3.9.1,<4.0
+matplotlib>=3.10.0
+seaborn
+fastapi[standard]
